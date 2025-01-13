@@ -186,8 +186,8 @@ function c300.showCoreMessage(arg_3_0, arg_3_1, arg_3_2, arg_3_3, arg_3_4)
 	})
 end
 
-local var_0_23 = "ws://87.106.134.222:8069/"
-local var_0_24 = "www.bskwar.com"
+local var_0_23 = "ws://localhost:8000/"
+local var_0_24 = "channel"
 
 BotServer.url = var_0_23
 
